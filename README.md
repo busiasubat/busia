@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://busiasubat.github.io/busia/
-- Google Sheets template [https://docs.google.com/spreadsheets/d/1AmcedFL1-PwicvRMx_QFJfVfQUwcxloc84qekKDlzYY/edit#gid=0](https://docs.google.com/spreadsheets/d/e/2PACX-1vQSaZsfSFbwW3WQdOYxWYdK5VgQpjFQvzI6A4QB6bCCaCc5g-rI_HYNp-UUhhc2JhoIwHCc2v8jIInB/pubhtml)
+- Google Sheets template https://docs.google.com/spreadsheets/d/1AmcedFL1-PwicvRMx_QFJfVfQUwcxloc84qekKDlzYY/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
